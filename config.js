@@ -13,4 +13,5 @@ module.exports = {
     linkedin: 'https://www.linkedin.com/in/taavi-ansper-8a688a1a4/',
   },
   pathPrefix: '/devblog',
+  siteUrl: 'https://github.com/TafkaMax/devblog/',
 };
