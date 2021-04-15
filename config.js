@@ -1,17 +1,15 @@
 module.exports = {
-  title: 'Dev Blog', // Required
-  author: 'Ryan Fitzgerald', // Required
-  description: 'Full-stack Web Developer',
-  primaryColor: '#3498db', // Required
+  title: 'TafkasWorld', // Required
+  author: 'Taavi Ansper', // Required
+  description: 'Kind of a fullstack developer. Also have some other hobbies that I post about here.',
+  primaryColor: '#FFB300', // Required
   showHeaderImage: true,
   showShareButtons: true,
   postsPerPage: 5, // Required
   social: {
-    website: 'https://ryanfitzgerald.ca',
-    github: 'https://github.com/ryanfitzgerald',
-    twitter: 'https://twitter.com/ryanafitzgerald',
-    linkedin: 'https://ca.linkedin.com/in/ryanafitzgerald',
+    website: '',
+    github: 'https://github.com/tafkamax',
+    linkedin: 'https://www.linkedin.com/in/taavi-ansper-8a688a1a4/',
   },
   pathPrefix: '/devblog',
-  siteUrl: 'https://ryanfitzgerald.github.io/devblog/',
 };
