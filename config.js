@@ -7,7 +7,6 @@ module.exports = {
   showShareButtons: true,
   postsPerPage: 5, // Required
   social: {
-    website: '',
     github: 'https://github.com/tafkamax',
     linkedin: 'https://www.linkedin.com/in/taavi-ansper-8a688a1a4/',
   },
