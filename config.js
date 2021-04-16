@@ -7,9 +7,9 @@ module.exports = {
   showShareButtons: true,
   postsPerPage: 5, // Required
   social: {
-    website: 'https://www.youtube.com/channel/UCLiozCVIsxK09U41hoXa6rg',
+    youtube: 'https://www.youtube.com/channel/UCLiozCVIsxK09U41hoXa6rg',
     github: 'https://github.com/TafkaMax',
-    twitter: 'https://https://twitter.com/elonmusk',
+    twitter: 'https://twitter.com/elonmusk',
     linkedin: 'https://www.linkedin.com/in/taavi-ansper-8a688a1a4/',
   },
   pathPrefix: '/devblog',
